@@ -22,9 +22,11 @@ The manual testing process covered various aspects of the SecureBank platform, f
 - Developed a structured **test plan** outlining:
   - Testing objectives
   - Scope
-  - Assumptions and Risks
-  - Test Approach
+  - Test items
+  - Features to be tested
+  - Features not to be tested
   - Test Environment
+  - Schedule
 
 ### Mindmap
 - Designed a **mind map** to visualize:
@@ -34,13 +36,14 @@ The manual testing process covered various aspects of the SecureBank platform, f
 ### Test Metrics
 - Collected and analyzed **test metrics** to assess:
   - Test coverage
-  - Defect density
   - Test execution progress
 
 ### Test Scenarios
 - Defined multiple **test scenarios** to validate:
   - Critical functionalities
   - Edge cases
+  - Boundary Value testing
+  - Negative testing
 
 ### Bug Reports
 - Documented identified **defects** with:
@@ -51,19 +54,16 @@ The manual testing process covered various aspects of the SecureBank platform, f
 
 
 ### Tools Used
-```plaintext
 - Test Management Tool: Excel Sheets / Google Sheets
-- Bug Tracking Tool: Jira 
 - Mind Mapping Tool: XMind 
-```
+
 
 ### Key Outcomes
-```plaintext
 - Identified and reported critical bugs affecting functionality and security.
 - Achieved comprehensive test coverage through detailed test cases and scenarios.
 - Ensured the platform's compatibility across various browsers and devices.
-```
+
 
 ## Conclusion
-This manual testing project for SecureBank has successfully validated the platform's core functionalities and security measures. The documentation, including test cases, scenarios, and bug reports, has been prepared to assist in continuous quality improvement.
+This manual testing project for SecureBank has successfully validated the platform's core functionalities and security measures. The documentation, including test cases, scenarios, mind map, test summary report, test metrics, and bug reports, has been prepared to assist in continuous quality improvement.
 
