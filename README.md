@@ -67,3 +67,8 @@ The manual testing process covered various aspects of the SecureBank platform, f
 ## Conclusion
 This manual testing project for SecureBank has successfully validated the platform's core functionalities and security measures. The documentation, including test cases, scenarios, mind map, test summary report, test metrics, and bug reports, has been prepared to assist in continuous quality improvement.
 
+## Test Report Summary
+
+![SecureBank Test Image](https://drive.google.com/uc?id=1jmW2DDJ7o5DdMslVYbFrv0yHG21jrjIm)
+
+<img src="https://drive.google.com/uc?id=1Vk7w84RBuLYz6KOwFqZaW0XP8rtsJXyG" alt="SecureBank Test Image_Graph" width="500"/>
